@@ -13,9 +13,11 @@ The purpose of this project was to carry out and publish an independent high-pre
 - Date completed:  Friday May 29 2026
 - Archive: (https://zenodo.org/records/20443567)
 
-## Archive
+## Purpose of This Repository
 
-The computed digits and supporting files are archived on Zenodo:
+This GitHub repository is intended to provide a public documentation page for the project.
+
+The computed digits and supporting files are not primarily hosted here. They are archived on Zenodo, which serves as the main public record for the computation. The Link being below:
 
 (https://zenodo.org/records/20443567)
 
