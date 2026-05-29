@@ -1,4 +1,4 @@
-# Computation of √13 to [X] Decimal Digits
+# Computation of √13 to 10 billion Decimal Digits
 
 This repository documents Benjamin Bilyak’s computation of the square root of 13, √13, to ten billion decimal digits using y-cruncher.
 
