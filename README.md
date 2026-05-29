@@ -11,13 +11,13 @@ The purpose of this project was to carry out and publish an independent high-pre
 - Computed by: Benjamin Bilyak 
 - Software: y-cruncher
 - Date completed:  Friday May 29 2026
-- Archive: (https://zenodo.org/records/20443567?)
+- Archive: (https://zenodo.org/records/20443567)
 
 ## Archive
 
 The computed digits and supporting files are archived on Zenodo:
 
-(https://zenodo.org/records/20443567?)
+(https://zenodo.org/records/20443567)
 
 ## Notes
 
