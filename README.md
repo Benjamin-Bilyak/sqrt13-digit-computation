@@ -1,4 +1,4 @@
-# Computation of √13 to 10 billion Decimal Digits
+# Computation of √13 to 10 billion decimal digits
 
 This repository documents Benjamin Bilyak’s computation of the square root of 13, √13, to ten billion decimal digits using y-cruncher.
 
@@ -17,7 +17,7 @@ The purpose of this project was to carry out and publish an independent high-pre
 
 This GitHub repository is intended to provide a public documentation page for the project.
 
-The computed digits and supporting files are not primarily hosted here. They are archived on Zenodo, which serves as the main public record for the computation. The Link being below:
+The computed digits and supporting files are not primarily hosted here. They are archived on Zenodo, which serves as the main public record for the computation. The archive is available here:
 
 (https://zenodo.org/records/20443567)
 
